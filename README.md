@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sohile Adel</h1>
+<h1 align="center">Hi 👋, I'm Sohile</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohileadel&label=Profile%20views&color=0e75b6&style=flat" alt="sohileadel" /> </p>
