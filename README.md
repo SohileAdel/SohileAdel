@@ -49,9 +49,7 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohileadel&show_icons=true&locale=en&layout=compact" alt="sohileadel" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohileadel" alt="sohileadel" />
